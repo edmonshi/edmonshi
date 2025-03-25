@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there, I'm Edmon Shi 👋
+I'm a Software Engineering, Honours Co-op student at the University of Waterloo. I began my coding journey in 2019 through my high school’s computer science program, where I quickly fell in love with writing code and exploring its endless creative potential.
+My skills in Java, C, C++, TypeScript, and React allowed me to create many interesting projects that can be found in my repositories. I am eager to learn new things and always on the uptake to tackle challenging problems.
 
+## Status
+I'm currently seeking a co-op position for Summer 2025. Feel free to reach out!
+
+## Technical Skills
+- Programming Languages: C, C++, Java/JavaFX, JavaScript, Python, Go, SQL
+- Tools and Framworks: Git, Linux, Maven, Gradle, React, VS Code, Jira
 <!--
 **edmonshi/edmonshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
