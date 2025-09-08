@@ -6,15 +6,17 @@ My skills in Java, C, C++ and JavaScript allowed me to create many interesting p
 I'm currently seeking a co-op position for Winter 2026. Feel free to reach out!
 
 ## Technical Skills
-- Programming Languages: C, C++, Java/JavaFX, JavaScript, TypeScript, Python, Go, SQL
-- Tools and Framworks: Git, Linux, Maven, Gradle, React, VS Code, Jira
+- Programming Languages: C, C++, Java/JavaFX, JavaScript, TypeScript, Python, Dart, SQL
+- Tools and Framworks: React, Flutter, Git, Linux, Maven, Gradle, VS Code, Jira
+
+- 🌱 I’m currently learning: Writing compilers with Scala
 <!--
 **edmonshi/edmonshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
