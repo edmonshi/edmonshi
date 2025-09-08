@@ -9,7 +9,7 @@ I'm currently seeking a co-op position for Winter 2026. Feel free to reach out!
 - Programming Languages: C, C++, Java/JavaFX, JavaScript, TypeScript, Python, Dart, SQL
 - Tools and Framworks: React, Flutter, Git, Linux, Maven, Gradle, VS Code, Jira
 
-- 🌱 I’m currently learning: Writing compilers with Scala
+- 🌱 I’m currently learning: Building compilers with Scala
 <!--
 **edmonshi/edmonshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
