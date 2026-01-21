@@ -8,7 +8,7 @@ My skills in programming allowed me to create many interesting projects that can
 - Programming Languages: C, C++, Java, JavaScript, TypeScript, Python, Scala, Dart, Bash
 - Web Development: React, Bootstrap, ShadCN, Next.js, Vite
 - Mobile: React Native, Flutter
-- Tools: Git, Linux, Maven, Gradle, Docker, IntelliJ, VS Code, Cursor
+- Tools: Git, Linux, Maven, Gradle, Docker, IntelliJ, VS Code, Cursor, Claude Code CLI
 
 ## 🟢Status
 - Currently seeking a co-op position for Fall 2026. Feel free to reach out!
