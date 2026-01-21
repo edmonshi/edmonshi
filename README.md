@@ -11,8 +11,8 @@ My skills in programming allowed me to create many interesting projects that can
 - Tools: Git, Linux, Maven, Gradle, Docker, IntelliJ, VS Code, Cursor
 
 ## 🟢Status
-- Currently seeking a co-op position for Winter 2026. Feel free to reach out!
-- 🌱 I’m currently learning: Building compilers in Scala
+- Currently seeking a co-op position for Fall 2026. Feel free to reach out!
+- 🌱 I’m currently learning: Speech AI
 <!--
 **edmonshi/edmonshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
